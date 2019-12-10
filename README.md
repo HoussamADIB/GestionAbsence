@@ -3,6 +3,8 @@ Mon projet académique réalisé en PHP native lors de ma première année en cy
 
 ![Image description](/Home.JPG)
 
+<br><br><br>
+
 ## Outils et technologies de développement utilisés
 
 ### Langages de programmation
